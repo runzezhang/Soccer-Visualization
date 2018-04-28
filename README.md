@@ -4,4 +4,5 @@ We categorizes each shot as:
 - off target
 - saved
 - scored
+
 We further demonstrate a visualization method for analysis of player’s habit, specially for the balls in target.
